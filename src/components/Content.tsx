@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { memo, useEffect, useState } from 'react';
 import { MovieCard } from '../components/MovieCard';
 import { Header } from '../components/Header';
 
